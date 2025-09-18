@@ -15,7 +15,6 @@ Proyecto final de la fase de selectividad de **Alura**.
 - HTML  
 - CSS  
 - JavaScript  
-- (Opcional) Librerías o frameworks que uses – si aplican  
 
 ---
 
@@ -27,7 +26,6 @@ Proyecto final de la fase de selectividad de **Alura**.
 | `style.css` | Estilos de la aplicación |
 | `app.js` | Lógica en JavaScript para generar los pares del amigo secreto |
 | `assets/` | Imágenes, sonidos o recursos visuales necesarios |
-| `.vscode/` | Configuraciones del editor (no afectar producción) |
 
 ---
 
