@@ -6,7 +6,7 @@ Proyecto final de la fase de selectividad de **Alura**.
 
 ## 📝 Descripción
 
-“Amigo Secreto Alura” es una aplicación web sencilla que permite generar de forma automática los pares para un juego de Amigo Secreto. La idea es que los participantes ingresen sus nombres, y la app empareja a cada uno con otro al azar, manteniendo la sorpresa.
+“Amigo Secreto” es una aplicación web sencilla que permite elegir de forma aleatoria un nombre de lista de nombres ingresados por el usuario. La idea es que el usuario ingrese varios nombres, y la app elegirá de manera aleatoria el nombre del participante, manteniendo la sorpresa.
 
 ---
 
@@ -24,7 +24,7 @@ Proyecto final de la fase de selectividad de **Alura**.
 |---|---|
 | `index.html` | Página principal, interfaz de usuario |
 | `style.css` | Estilos de la aplicación |
-| `app.js` | Lógica en JavaScript para generar los pares del amigo secreto |
+| `app.js` | Lógica en JavaScript para generar la aleatoriedad |
 | `assets/` | Imágenes |
 
 ---
