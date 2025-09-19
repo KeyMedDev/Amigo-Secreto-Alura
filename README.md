@@ -25,7 +25,7 @@ Proyecto final de la fase de selectividad de **Alura**.
 | `index.html` | Página principal, interfaz de usuario |
 | `style.css` | Estilos de la aplicación |
 | `app.js` | Lógica en JavaScript para generar los pares del amigo secreto |
-| `assets/` | Imágenes, sonidos o recursos visuales necesarios |
+| `assets/` | Imágenes |
 
 ---
 
